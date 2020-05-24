@@ -13,4 +13,8 @@ He posted all of his instructions:
 But that only got the mfg.dat file. You also need the contents of the /etc/rootcert folder to be able to decode the contents.
 - `tar cf /www/att/images/cert.tar /etc/rootcert/`
 
-Download http://192.168.1.254/images/cert.tar to your local mchine.
+Download http://192.168.1.254/images/cert.tar to your local mchine. Next you'll need to decode these files. This tool will help:
+
+https://www.devicelocksmith.com/2018/12/eap-tls-credentials-decoder-for-nvg-and.html
+
+
