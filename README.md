@@ -17,4 +17,6 @@ Download http://192.168.1.254/images/cert.tar to your local mchine. Next you'll 
 
 https://www.devicelocksmith.com/2018/12/eap-tls-credentials-decoder-for-nvg-and.html
 
+https://jimangel.io/post/bypassing-att-fiber-gateway-on-udmp/
 
+https://github.com/boostchicken/udm-utilities/tree/master/on-boot-script/
